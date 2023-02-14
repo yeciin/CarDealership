@@ -1,3 +1,4 @@
 # CarDealership
 Car dealership website that connects to a database using tomcat, jsp, servlet, DAO.
 This project is aimed at creating a car dealership system that utilizes modern web development technologies to provide customers with an efficient and user-friendly way to browse and purchase vehicles. The system will utilize a Data Access Object (DAO) to handle all data-related operations such as querying, inserting, updating, and deleting records from the car database. This will ensure that the data is accessed and manipulated in an efficient and secure manner. In addition, the system will utilize Java Server Pages (JSP) to dynamically generate a webpage for displaying the inventory of cars, and a servlet to handle HTTP requests and manipulate the car database.
+Note: The .java files can be accessed in the classes folder. They were added there by me just to be read so that sense can be made of the project.
